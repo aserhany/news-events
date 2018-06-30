@@ -1,0 +1,17 @@
+titles:
+  de: Bundesparteitag der AfD
+countries:
+  - germany
+labels:
+  - politics
+  - afd
+locations:
+  - Augsburg
+dates:
+  - 2018-06-30
+articles:
+  de:
+    - url: http://www.spiegel.de/politik/deutschland/parteitag-in-augsburg-tausende-demonstrieren-gegen-die-afd-a-1215944.html
+    - url: https://www.augsburger-allgemeine.de/bayern/2000-Polizisten-schuetzen-AfD-Parteitag-in-Augsburg-id51504941.html
+      is_photo_series: true
+

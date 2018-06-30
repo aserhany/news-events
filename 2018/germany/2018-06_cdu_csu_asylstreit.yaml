@@ -1,0 +1,17 @@
+titles:
+  de: Asylstreit zwischen CDU und CSU
+countries:
+  - germany
+labels:
+  - politics
+  - cdu
+  - csu
+  - asylum_policy
+articles:
+  de:
+    - url: http://www.spiegel.de/politik/deutschland/asylstreit-14-laender-sagen-angela-merkel-rueckfuehrungen-zu-a-1215933.html
+    - url: http://www.spiegel.de/politik/deutschland/angela-merkel-einigung-mit-griechenland-und-spanien-in-fluechtlingspolitik-a-1215847.html
+    - url: http://www.spiegel.de/plus/warum-cdu-und-csu-nicht-mehr-zusammengehoeren-a-00000000-0002-0001-0000-000158147633
+      contains_commentary: true
+    - url: http://www.spiegel.de/kultur/gesellschaft/eu-fluechtlingsdebatte-seyla-benhabib-das-sind-aufgewaermte-faschisten-a-1215277.html
+      contains_interview: true
