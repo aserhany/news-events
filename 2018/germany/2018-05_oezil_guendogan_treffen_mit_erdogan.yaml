@@ -1,0 +1,26 @@
+titles:
+  de: Treffen von Özil und Gündogan mit Erdogan
+countries:
+  - germany
+  - turkey
+labels:
+  - politics
+  - sport
+  - football
+wikipedia:
+  - de:
+    - https://de.wikipedia.org/wiki/Mesut_%C3%96zil#Erdo%C4%9Fan-Treffen
+    - https://de.wikipedia.org/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan#Kritik
+dates:
+  - 2018-05-13
+locations:
+  - London
+articles:
+  de:
+    - url: https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article176343687/Kritik-an-Oezil-Guendogan-Von-Erdogan-missbrauchen-lassen.html
+    - url: http://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/erdogan-fotos-oezil-und-guendogan-besuchen-bundespraesident-15598719.html
+    - url: https://www.welt.de/sport/fussball/article176781950/Erdogan-Besuch-Klinsmanns-erstaunliche-Einschaetzung-zum-Fall-Oezil-und-Guendogan.html
+    - url: http://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/merkel-spricht-in-erdogan-affaere-mit-guendogan-und-oezil-15637361.html
+    - url: http://www.nordbayern.de/sport/wegen-erdogan-fotos-muller-ruffelt-gundogan-und-ozil-1.7759758
+    - url: http://www.sueddeutsche.de/sport/fussball-wm-die-nationalelf-muss-sich-von-den-rassisten-distanzieren-1.4035410
+      contains_commentary: true

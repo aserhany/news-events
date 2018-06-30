@@ -1,0 +1,16 @@
+titles:
+  de: Proteste gegen Zwölf-Stunden-Arbeitstag
+countries:
+  - austria
+labels:
+  - politics
+  - labor_market_policy
+  - demonstration
+dates:
+  - 2018-06-30
+locations:
+  - Wien
+articles:
+  de:
+    - url: http://www.sueddeutsche.de/panorama/proteste-in-oesterreich-widerstand-gegen-zwoelf-stunden-arbeitstag-1.4035554
+    - url: https://www.zeit.de/politik/ausland/2018-06/oesterreich-60-stunden-woche-demonstration-wien
