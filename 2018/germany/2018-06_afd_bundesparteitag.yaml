@@ -16,3 +16,5 @@ articles:
       is_photo_series: true
     - url: http://www.sueddeutsche.de/politik/afd-parteitag-in-augsburg-laeuft-bei-denen-1.4035418
     - url: https://www.zeit.de/politik/deutschland/2018-06/afd-parteistiftung-desiderius-erasmus-erika-steinbach
+    - url: https://www.zeit.de/politik/deutschland/2018-07/afd-alternative-maskerade-rechtspopulismus-analyse
+      contains_commentary: true

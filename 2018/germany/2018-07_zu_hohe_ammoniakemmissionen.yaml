@@ -1,0 +1,12 @@
+titles:
+  de: Zu hohe Ammoniakemissionen
+countries:
+  - germany
+  - eu
+labels:
+  - politics
+  - ammonia_emission
+  - infringement_proceedings
+articles:
+  de:
+    - url: https://www.zeit.de/wissen/umwelt/2018-07/eu-grenzwerte-ammoniak-landwirtschaft-deutschland

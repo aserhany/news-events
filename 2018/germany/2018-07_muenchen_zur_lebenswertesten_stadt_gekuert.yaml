@@ -1,0 +1,15 @@
+titles:
+  de: München zur lebenswertesten Stadt gekürt
+countries:
+  - germany
+labels:
+  - city_ranking
+  - ranking
+  - monocle_magazine
+dates:
+  - 2018-07-01
+locations:
+  - München
+articles:
+  de:
+    - url: https://www.zeit.de/gesellschaft/zeitgeschehen/2018-07/staedteranking-muenchen-stadt-lebenswert-monocle

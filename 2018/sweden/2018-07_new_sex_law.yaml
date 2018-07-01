@@ -1,0 +1,42 @@
+titles:
+  de: Inkrafttreten des neuen Sex-Gesetzes
+countries:
+  - sweden
+labels:
+  - politics
+  - sex_law
+dates:
+  - 2018-07-01
+articles:
+  de:
+    - url: http://www.sueddeutsche.de/panorama/gesetzesaenderung-in-schweden-ja-nein-vielleicht-1.4035036
+    - url: https://www.dw.com/de/neues-sex-gesetz-in-schweden-in-kraft/a-44475309
+    - url: http://www.spiegel.de/politik/ausland/neues-gesetz-in-schweden-sex-nur-noch-nach-einverstaendnis-a-1216012.html
+    - url: https://www.tagesschau.de/ausland/schweden-sexgesetz-101.html
+    - url: https://www.derwesten.de/politik/neues-sex-gesetz-in-schweden-die-wichtigsten-antworten-id212919087.html
+    - url: https://www.merkur.de/welt/umstrittenes-sex-gesetz-in-schweden-in-kraft-zr-9996544.html
+    - url: https://www.berliner-zeitung.de/politik/vergewaltigung-nur-ja-heisst-ja---umstrittenes-sex-gesetz-in-schweden-in-kraft-30711314
+    - url: http://www.bento.de/politik/schweden-nach-metoo-das-sagt-eine-aktivistin-zum-neuen-gesetz-zu-einverstaendnis-vor-dem-sex-1958132/
+      contains_interview: true
+    - url: https://www.br.de/puls/themen/leben/ja-heisst-ja-sexualstrafrecht-vergewaltigung-schweden-100.html
+      contains_commentary: true
+    - url: https://kurier.at/chronik/weltchronik/das-schwedische-sex-gesetz-ein-furchtbar-komplizierter-akt/400039804
+    - url: http://www.faz.net/agenturmeldungen/dpa/umstrittenes-sex-gesetz-in-schweden-in-kraft-15668840.html
+    - url: https://www.morgenpost.de/politik/article212919087/Neues-Sex-Gesetz-in-Schweden-Die-wichtigsten-Antworten.html
+    - url: http://www.spiegel.de/kultur/gesellschaft/einverstaendnisgesetz-warum-es-richtig-ist-vor-dem-sex-zu-fragen-kolumne-a-1185028.html
+      contains_commentary: true
+    - url: https://www.svz.de/deutschland-welt/politik/schwedisches-sex-gesetz-id18639446.html
+    - url: https://derstandard.at/2000070774114/Schweden-sollen-vor-Sex-um-Erlaubnis-bitten-aber-keiner-weiss
+    - url: https://www.mz-web.de/umstrittenes-sex-gesetz-tritt-in-schweden-in-kraft-30711216
+    - url: https://www.welt.de/vermischtes/article171793773/Schwedisches-Gesetz-Freiwilligkeit-in-jeder-Phase-des-Geschlechtsverkehrs.html
+    - url: https://www.krone.at/1732618
+  en:
+    - url: https://www.thelocal.se/20180524/sweden-votes-through-new-sexual-consent-law
+    - url: https://www.washingtonpost.com/news/worldviews/wp/2017/12/20/amid-metoo-movement-and-fear-of-immigrants-sweden-proposes-tough-sexual-assault-law/?noredirect=on&utm_term=.f8f3f72b5df9
+    - url: https://www.independent.co.uk/news/world/europe/rape-law-sweden-sex-without-consent-metoo-a8367996.html
+    - url: https://www.bbc.com/news/world-europe-44230786
+    - url: https://www.thelocal.se/20180630/swedens-new-sexual-consent-law-comes-into-effect
+    - url: https://www.thelocal.se/20180524/five-things-to-know-about-swedens-new-sexual-consent-law
+    - url: https://www.nytimes.com/2018/05/23/world/europe/sweden-rape-consent-sex.html
+    - url: https://www.rt.com/news/431392-sweden-rape-consent-law/
+    - url: http://www.scmp.com/news/world/europe/article/2153297/new-law-sweden-recognises-sex-without-consent-rape
