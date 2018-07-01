@@ -7,6 +7,8 @@ labels:
   - cdu
   - csu
   - asylum_policy
+related_events:
+  - germany/2018-07_seehofer_verkuendet_ruecktritt
 articles:
   de:
     - url: http://www.spiegel.de/politik/deutschland/asylstreit-14-laender-sagen-angela-merkel-rueckfuehrungen-zu-a-1215933.html
@@ -22,3 +24,6 @@ articles:
     - url: https://www.zeit.de/politik/deutschland/2018-06/unionsstreit-asylpolitik-cdu-csu-live
     - url: https://www.zeit.de/politik/deutschland/2018-07/asylstreit-horst-seehofer-eu-fluechtlingspolitik-unionsstreit
     - url: https://www.zeit.de/politik/deutschland/2018-07/asylstreit-union-angela-merkel-horst-seehofer-spaltung-warnung
+    - url: http://www.sueddeutsche.de/politik/asylstreit-zwischen-cdu-und-csu-merkel-gegen-seehofer-ein-tag-fuer-die-geschichtsbuecher-1.4036593
+      is_photo_series: true
+    - url: http://www.sueddeutsche.de/politik/seehofers-masterplan-kuenftig-ist-auch-die-zurueckweisung-von-schutzsuchenden-beabsichtigt-wenn-1.4036697
