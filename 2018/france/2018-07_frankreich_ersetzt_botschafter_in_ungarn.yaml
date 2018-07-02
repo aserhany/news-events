@@ -1,0 +1,28 @@
+titles:
+  de: Frankreich ersetzt Botschafter in Ungarn
+countries:
+  - france
+  - hungary
+labels:
+  - politics
+dates:
+  - 2018-07-02
+locations:
+  - Hungary
+related_events:
+  - france/2018-07_frankfreichs_botschafter_lobt_pm_von_ungarn
+articles:
+  de:
+    - url: https://www.zeit.de/politik/ausland/2018-07/fluechtlinge-franzoesischer-botschafter-ungarn-eric-fournier-pascale-andreani
+    - url: https://www.welt.de/politik/ausland/article178615132/Frankreich-Macron-tauscht-Botschafter-in-Ungarn-nach-Pro-Orban-Memo-aus.html
+    - url: http://www.spiegel.de/politik/ausland/emmanuel-macron-entlaesst-botschafter-in-ungarn-nach-lob-fuer-viktor-orban-a-1216147.html
+    - url: https://de.reuters.com/article/frankreich-ungarn-botschafter-idDEKBN1JS0WO
+    - url: https://www.watson.de/international/frankreich/153177929-er-lobte-orbans-umgang-mit-migranten-jetzt-wird-er-von-macron-ausgetauscht-
+    - url: http://de.euronews.com/2018/07/02/orban-lob-franzosischer-botschafter-in-ungarn-abberufen
+  en:
+    - url: https://www.straitstimes.com/world/europe/macron-replaces-hungary-ambassador-after-pro-orban-memo-leaked
+    - url: https://www.dw.com/en/emmanuel-macron-replaces-french-ambassador-to-hungary-after-pro-orban-comments/a-44492594
+    - url: https://www.rt.com/newsline/431455-macron-france-ambassador-hungary/
+    - url: https://www.haaretz.com/world-news/europe/macron-replaces-hungarian-ambassador-after-pro-orban-memo-leak-1.6224964
+    - url: https://sputniknews.com/europe/201807021065960256-hungary-france-macron-migrant/
+    - url: https://hungarytoday.hu/emmanuel-macron-replaces-ambassador-to-budapest-allegedly-because-of-pro-orban-comments/

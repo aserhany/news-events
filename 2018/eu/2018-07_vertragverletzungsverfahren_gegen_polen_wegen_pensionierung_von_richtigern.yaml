@@ -1,0 +1,27 @@
+titles:
+  de: EU leitet ein Vertragverletzungsverfahren gegen Polen ein
+countries:
+  - eu
+  - poland
+labels:
+  - politics
+  - supreme court
+  - infringement_procedure
+dates:
+  - 2018-07-02
+articles:
+  de:
+    - url: https://www.zeit.de/politik/ausland/2018-07/europaeische-kommission-polen-verfahren-richter-pensionierung
+    - url: http://www.spiegel.de/politik/ausland/rechtsstaat-in-polen-eu-kommission-eroeffnet-neues-verfahren-a-1216258.html
+    - url: https://www.lto.de/recht/nachrichten/n/eu-kommission-polen-justizreform-rechtsstaat-richter-pensionierung/
+    - url: https://www.handelsblatt.com/politik/international/moegliche-vertragsverletzung-eu-kommission-leitet-verfahren-gegen-polen-wegen-richter-pensionierung-ein/22758530.html?ticket=ST-48374-snJjUWrEn06h5uqQd5qq-ap2
+    - url: https://de.reuters.com/article/eu-kommission-polen-klage-idDEKBN1JS1PK
+    - url: http://europa.eu/rapid/press-release_IP-18-4341_en.htm
+  en:
+    - url: https://www.aljazeera.com/news/2018/07/eu-opens-legal-case-poland-supreme-court-180702122119110.html
+    - url: https://www.ft.com/content/d660c9ee-7de9-11e8-8e67-1e1a0846c475
+    - url: https://www.washingtonpost.com/world/europe/european-union-starts-rule-of-law-procedure-against-poland/2018/07/02/a6b6b0f2-7de7-11e8-a63f-7b5d2aba7ac5_story.html?noredirect=on&utm_term=.17eb741472f9
+    - url: https://www.independent.co.uk/news/world/europe/eu-poland-court-independence-government-control-populist-government-a8427106.html
+    - url: http://www.thenews.pl/1/10/Artykul/370998,Brussels-opens-new-case-against-Poland-over-Supreme-Court-reforms
+    - url: https://euobserver.com/tickers/142255
+    
