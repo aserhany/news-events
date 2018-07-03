@@ -31,3 +31,11 @@ articles:
     - url: https://www.zeit.de/politik/2018-07/unionskrise-cdu-csu-fraktionsbruch-szenarien
     - url: https://www.zeit.de/politik/deutschland/2018-07/asylstreit-angela-merkel-horst-seehofer-treffen-union
     - url: https://www.zeit.de/politik/deutschland/2018-07/asylstreit-union-auswege-cdu-csu
+    - url: http://www.spiegel.de/politik/deutschland/horst-seehofer-und-angela-merkel-einigen-sich-im-asylstreit-die-pressestimmen-a-1216332.html
+      contains_press_opinions_overview: true
+    - url: http://www.spiegel.de/politik/deutschland/asylstreit-der-union-fiktion-einer-einigung-kommentar-a-1216302.html
+      contains_commentary: true
+    - url: http://www.sueddeutsche.de/politik/seehofer-und-merkel-im-asylstreit-versoehnung-ausgeschlossen-1.4035676
+      contains_commentary: true
+    - url: http://www.sueddeutsche.de/politik/sicherheit-statt-recht-und-freiheit-der-asylkompromiss-wird-nicht-funktionieren-1.4038358
+      contains_commentary: true
